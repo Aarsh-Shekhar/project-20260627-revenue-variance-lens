@@ -1,0 +1,146 @@
+[
+  {
+    "id": "segment-001",
+    "exposure": 56076,
+    "signal": 0.524,
+    "urgency": 2
+  },
+  {
+    "id": "segment-002",
+    "exposure": 85743,
+    "signal": 0.52,
+    "urgency": 8
+  },
+  {
+    "id": "segment-003",
+    "exposure": 5791,
+    "signal": 0.386,
+    "urgency": 9
+  },
+  {
+    "id": "segment-004",
+    "exposure": 61296,
+    "signal": 0.347,
+    "urgency": 2
+  },
+  {
+    "id": "segment-005",
+    "exposure": 75250,
+    "signal": 0.848,
+    "urgency": 9
+  },
+  {
+    "id": "segment-006",
+    "exposure": 1873,
+    "signal": 0.65,
+    "urgency": 2
+  },
+  {
+    "id": "segment-007",
+    "exposure": 53874,
+    "signal": 0.289,
+    "urgency": 4
+  },
+  {
+    "id": "segment-008",
+    "exposure": 68441,
+    "signal": 0.637,
+    "urgency": 7
+  },
+  {
+    "id": "segment-009",
+    "exposure": 15063,
+    "signal": 0.622,
+    "urgency": 2
+  },
+  {
+    "id": "segment-010",
+    "exposure": 10175,
+    "signal": 0.191,
+    "urgency": 6
+  },
+  {
+    "id": "segment-011",
+    "exposure": 36515,
+    "signal": 0.247,
+    "urgency": 3
+  },
+  {
+    "id": "segment-012",
+    "exposure": 6968,
+    "signal": 0.143,
+    "urgency": 5
+  },
+  {
+    "id": "segment-013",
+    "exposure": 14055,
+    "signal": 0.776,
+    "urgency": 3
+  },
+  {
+    "id": "segment-014",
+    "exposure": 86179,
+    "signal": 0.496,
+    "urgency": 8
+  },
+  {
+    "id": "segment-015",
+    "exposure": 29755,
+    "signal": 0.85,
+    "urgency": 9
+  },
+  {
+    "id": "segment-016",
+    "exposure": 53512,
+    "signal": 0.331,
+    "urgency": 6
+  },
+  {
+    "id": "segment-017",
+    "exposure": 20320,
+    "signal": 0.92,
+    "urgency": 1
+  },
+  {
+    "id": "segment-018",
+    "exposure": 58806,
+    "signal": 0.663,
+    "urgency": 2
+  },
+  {
+    "id": "segment-019",
+    "exposure": 63338,
+    "signal": 0.122,
+    "urgency": 4
+  },
+  {
+    "id": "segment-020",
+    "exposure": 85315,
+    "signal": 0.119,
+    "urgency": 1
+  },
+  {
+    "id": "segment-021",
+    "exposure": 13944,
+    "signal": 0.647,
+    "urgency": 9
+  },
+  {
+    "id": "segment-022",
+    "exposure": 10716,
+    "signal": 0.861,
+    "urgency": 8
+  },
+  {
+    "id": "segment-023",
+    "exposure": 46558,
+    "signal": 0.626,
+    "urgency": 7
+  },
+  {
+    "id": "segment-024",
+    "exposure": 86240,
+    "signal": 0.513,
+    "urgency": 6
+  }
+]
